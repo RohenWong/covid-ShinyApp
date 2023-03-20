@@ -1,0 +1,13 @@
+name: Multi-Omics-COVID-risk-app
+title: Multi-Omics-COVID-risk-app
+username:
+account: rwon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7073187
+bundleId: 6322624
+url: https://rwon.shinyapps.io/Multi-Omics-COVID-risk-app/
+when: 1663735416.25787
+lastSyncTime: 1663735416.25789
+asMultiple: FALSE
+asStatic: FALSE
