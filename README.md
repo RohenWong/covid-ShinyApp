@@ -1,6 +1,8 @@
 # Multi-Omics COVID Shiny app
 
-I have built a Shiny app ([hosted here](https://rwon.shinyapps.io/Multi-Omics-COVID-risk-app/)) to predict Covid-19 outcome. User's can interact with our visualisation tab, or upload their own omics data (proteomic, metalobomic, transcriptomic readings) to get a predicted outcome (moderate/severe).
+Authors: *Abdullah Safi, Benjamin Boey, Rohen Wong, Ruilin Zhou, Youheng Yao*
+
+We have built a Shiny app ([hosted here](https://rwon.shinyapps.io/Multi-Omics-COVID-risk-app/)) to predict Covid-19 outcome. Users can interact with our visualisation tab, or upload their own omics data (proteomic, metalobomic, transcriptomic readings) to get a predicted outcome (moderate/severe).
 
 Predictions are made using majority voting from an ensemble of machine learning models: Random Forest, Support Vector Machines (SVM), non-linear SVM and Diagonal Linear Discrimant Analysis (DLDA).
 
