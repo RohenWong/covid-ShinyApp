@@ -27,9 +27,15 @@ https://user-images.githubusercontent.com/115207897/226347837-7667acee-40ee-439c
 
 Users can upload their omics data to get predicted covid-19 outcomes (moderate/severe).
 
-The folder `demo_uploading_files` contains 2 demo datasets - one from Su et al. (2020), another from Shen et al. (2020). The clinical data and `.csv` omics from each can be uploaded to the app to get predictions. 
+The folder `demo_uploading_files` contains 2 demo datasets - one from Su et al. (2020), another from Shen et al. (2020). Patient clinical data and *at least one* `.csv` omics needs to be uploaded, on order to get predictions
 
 *Note:* pdata, mdata and rdata refer to proteomics, metabolomics and transcriptomics respectively.
+
+
+
+https://user-images.githubusercontent.com/115207897/226353493-0fedefd0-fbb0-48c5-8bae-76e235c38130.mp4
+
+
 
 
 
